@@ -203,6 +203,7 @@ nav .row{
     font-family: var(--primaryfonts);
     font-weight: 300;
     font-size: 14px;
+    text-align:left;
     color: var(--primarycolor);
 }
 #about-us .about-ustxt p{
@@ -215,6 +216,7 @@ nav .row{
 #about-us .about-ustxt .heading h2{
     font-family: var(--secondoryfonts);
     font-weight:400;
+    text-align:left;
     font-size: 32px;
     margin-bottom: 32px;
     color: var(--primarycolor);

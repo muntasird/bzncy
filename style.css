@@ -159,7 +159,10 @@ nav .row{
     color: #ffffff;
     background-color: #8484bf;
     padding: 12px 22px;
-    width: 21px;
+    font-weight:500;
+    font-size:20px;
+    color:var(--primarycolor);
+    font-family:var(--primaryfonts);
     border-radius: 10px;
 }
 
